@@ -1,0 +1,130 @@
+* {
+    margin: auto;
+   
+}
+.container {
+max-width: 100%;
+max-height: 100%;
+margin-right: 15px;
+padding-left: 20px;
+line-height: 2;
+}
+li {
+    list-style: none;
+    display: inline-block;
+    padding-right: 40px;
+}
+.ist {
+    text-align: center;
+}
+.hat {
+    float: right;
+    padding-right: 90px;
+    
+}
+.bn {
+    padding: 5px 20px;
+}
+header {
+    border-bottom: 1px solid black;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    
+}
+.logo {
+    height: 1px;
+    font-size: x-large;
+}
+.phase {
+    float: right;
+    background-image: url(/PHOTOS/richard.JPG);
+    /*padding-left: 360px;
+    padding-bottom: 400px;*/
+    padding-bottom: 400px;
+
+}
+.is {
+    border-radius: 20px;
+    background-color: blue;
+    padding: 3px 20px;
+    color: white;
+    border: none;
+}
+.intro {
+    text-transform: capitalize;
+    font-size: x-large;
+}
+.ire {
+    background-color: orangered;
+    color: white;
+    border: none;
+    padding: 7px 20px;
+    margin-top: 5px;
+}
+.projects {
+    background-color: white;
+     border: none;
+}
+.foo {
+    padding-left: 20px;
+    background-color: black;
+    color: white;
+    padding: 35px 0px;
+
+}
+.num {
+
+margin-left: 200px;
+
+}
+.run {
+    height: 0px;
+}
+table {
+    margin-left: 200px;
+    margin-top: 20px;
+
+    
+    
+}
+td {
+    border-bottom: 1px solid white;
+
+    
+}
+.wd {
+    padding-left: 50px;
+}
+
+.more {
+    background-color: yellow;
+    border: none;
+    margin-bottom: 20px;
+}
+.ore {
+    height: 0px;
+    
+}
+.buttin {
+    margin-top: 28px;
+    margin-bottom: 20px;
+}
+.pict {
+    height: 37px;
+    width: 25;
+}
+.pic {
+    height: 37px;
+    width: 25;   
+}
+.pi {
+    height: 37px;
+    width: 25;
+}
+.cr {
+    float: left;
+}
+.new {
+background-color: white;
+
+}
